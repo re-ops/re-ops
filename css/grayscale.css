@@ -147,7 +147,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/re-ops.png) no-repeat bottom center scroll;
+    /* background: url(../img/re-ops.png) no-repeat bottom center scroll; */
     background-color: #000;
     opacity : 1.1;
     -webkit-background-size: cover;
