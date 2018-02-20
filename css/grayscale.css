@@ -149,7 +149,7 @@ a:focus {
     color: #fff;
     background: url(../img/re-ops.png) no-repeat bottom center scroll;
     background-color: #000;
-    opacity : 0.8;
+    opacity : 1.1;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -163,14 +163,12 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 40px;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    opacity : 0.9;
+    text-shadow: -2px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
 
 }
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    text-shadow: -2px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
 
 }
 
@@ -194,7 +192,7 @@ a:focus {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #fff;
+    border: 2px solid #42dca3;
     border-radius: 100%!important;
     font-size: 40px;
     color: #fff;
